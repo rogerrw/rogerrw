@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,redux,git,redis,docker,prisma,python" />
 </p>
 <!--
 **rogerrw/rogerrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
